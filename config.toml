@@ -1,7 +1,7 @@
 # Hugo Site Configuration
-baseURL = "https://felipecordero.com"
-languageCode = "en-us"
-title = "Felipe Cordero"
+baseURL = "https://yashaswinikrishnanaik-stack.github.io/"
+locale = "en-us"
+title = "Yeshaswini Krishna"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -9,94 +9,54 @@ defaultContentLanguageInSubdir = false
 [languages]
   [languages.en]
     contentDir = "content/en"
-    languageName = "English"
+    label = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Head of Technology at Fireraven. Securing every AI agent."
-      hero_description = "Head of Technology at Fireraven: hands-on tech leadership for FireGuard and RedRaven, with real-time policy enforcement, red-teaming, and auditor-ready compliance for LLM agents. I bridge CEO and product vision with AI systems engineering so enterprises can adopt agents safely and at scale."
-      hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
+      tagline = "BS-MS student at IISER Tirupati. Planetary dynamics and N-body simulations."
+      hero_description = "I'm a BS-MS student at IISER Tirupati working on planetary dynamics and planet formation, mainly through N-body simulations. I'm doing my master's thesis as a visiting student at the Institute of Science Tokyo."
+      hero_location = "Tokyo, Japan"
+      resume_url = "/files/CV.pdf"
       collab_tags = [
-        "Tech leadership & architecture",
-        "AI agent security & compliance",
-        "FireGuard & policy guardrails",
-        "Full-stack AI (Python / Next.js)",
-        "Enterprise AI adoption"
-      ]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
-    weight = 2
-    [languages.es.params]
-      tagline = "Head of Technology en Fireraven. Asegurando cada agente de IA."
-      hero_description = "Head of Technology en Fireraven: liderazgo técnico hands-on de FireGuard y RedRaven, con enforcement de políticas en tiempo real, red teaming y cumplimiento listo para auditoría para agentes LLM. Conecto la visión del CEO y del producto con la ingeniería de sistemas de IA para una adopción empresarial segura y a escala."
-      hero_location = "Montreal, Canadá"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
-      collab_tags = [
-        "Liderazgo técnico y arquitectura",
-        "Seguridad y cumplimiento de agentes IA",
-        "FireGuard y guardrails de políticas",
-        "IA full stack (Python / Next.js)",
-        "Adopción de IA empresarial"
-      ]
-  [languages.fr]
-    contentDir = "content/fr"
-    languageName = "Français"
-    weight = 3
-    [languages.fr.params]
-      tagline = "Directeur de la technologie chez Fireraven. Sécuriser chaque agent IA."
-      hero_description = "Directeur de la technologie chez Fireraven : leadership technique hands-on pour FireGuard et RedRaven, avec enforcement de politiques en temps réel, red teaming et conformité prête pour l'audit pour agents LLM. Je relie la vision du CEO et du produit à l'ingénierie des systèmes IA pour une adoption entreprise sûre et à l'échelle."
-      hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_FRE.pdf"
-      collab_tags = [
-        "Leadership tech et architecture",
-        "Sécurité et conformité des agents IA",
-        "FireGuard et guardrails de politiques",
-        "IA full stack (Python / Next.js)",
-        "Adoption de l'IA en entreprise"
+        "Planetary dynamics",
+        "Planet formation",
+        "N-body simulations",
+        "REBOUND",
+        "Scientific computing"
       ]
 
 [build]
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-firstName = "Felipe"
-lastName = "Cordero"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+name = "Yeshaswini Krishna"
+firstName = "Yeshaswini"
+lastName = "Krishna"
+email = "yashaswinikrishnan@gmail.com"
+profile_image = "/images/profile.jpg"
+author = "Yeshaswini Krishna"
 
-og_image = "images/felipecordero-og.png"
+description = "BS-MS student at IISER Tirupati working on planetary dynamics, planet formation and N-body simulations."
 
-description = "Head of Technology at Fireraven. Hands-on tech leadership for FireGuard and RedRaven: guardrails, security, and compliance for LLM agents, bridging product vision with AI systems engineering."
+linkedin_url = "https://www.linkedin.com/in/YOUR_LINKEDIN"
+linkedin_text = "linkedin.com/in/YOUR_LINKEDIN"
+github_url = "https://github.com/YOUR_GITHUB"
+github_text = "github.com/YOUR_GITHUB"
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+copyright = "Yeshaswini Krishna"
 
-calendly_url = "https://calendly.com/correofelipecordero/30min"
-calendly_height = "700px"
-
-copyright = "Felipe Cordero"
-
-
-resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_FRE.pdf"
+resume_url_en = "/files/CV.pdf"
 resume_label = "View CV"
 
-# Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
 formspreeendpoint = ""
 pexelsapikey = ""
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+url = "https://www.linkedin.com/in/yashaswini-k-9b53b0275/"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://github.com/YOUR_GITHUB"
 
 sectionPagesMenu = 'main'
 
