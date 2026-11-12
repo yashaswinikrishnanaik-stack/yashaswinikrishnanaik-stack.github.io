@@ -6,7 +6,7 @@ weight = 2
 [[main]]
 name = "Skills"
 url = "/#skills"
-weight = 3
+weight = 5
 
 [[main]]
 name = "Experience"
@@ -16,12 +16,7 @@ weight = 4
 [[main]]
 name = "Contact"
 url = "/#contact"
-weight = 5
-
-[[main]]
-name = "Tech Stack"
-url = "/#technical"
-weight = 4.5
+weight = 70
 
 [[main]]
 name = "Blog"
@@ -29,13 +24,13 @@ url = "/blog/"
 weight = 60
 
 [[main]]
-name = "Engineering"
+name = "Research"
 url = "/engineering/"
-weight = 50
+weight = 3
 pre = "engineering"
 
 [[main]]
-name = "Contributions"
+name = "Art"
 url = "/contributions/"
 weight = 51
 pre = "contributions"
