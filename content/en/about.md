@@ -3,7 +3,7 @@ title: "About"
 type: "homepage"
 featured_image: "/images/felipe-cordero-profile.jpg"
 intro: >-
-  **Head of Technology in AI**. I own technology direction and delivery for secure, compliant LLM agents. I started in **structural engineering** in Chile, moved into **software and automation** in construction and BIM, then into **AI/ML and LLM-based products**. Today I'm **Head of Technology** at <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, leading **FireGuard** and **RedRaven**: architecture, roadmap, and hands-on shipping of policy guardrails, runtime enforcement, and red-teaming so enterprises can adopt agents safely. I've led complex, cross-disciplinary work from R&D through delivery, including the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) for AI/ML studies.
+   I find the world around us incredibly fascinating, and there's always something new that makes me stop, wonder, and ask questions. I love reading, exploring unfamiliar ideas, and trying to understand how things work and why they are the way they are. For me, learning isn't limited to a particular subject; there's something interesting to discover in just about everything. 
 
 study: >-
   Based in **Montréal**, I continue to deepen **AI and machine learning** at **Collège LaSalle** (Python, PyTorch, predictive modeling), complementing my day-to-day work leading **LLM agent security, guardrails, and platform delivery** at Fireraven.
