@@ -37,10 +37,10 @@ author = "Yeshaswini Krishna"
 
 description = "BS-MS student at IISER Tirupati working on planetary dynamics, planet formation and N-body simulations."
 
-linkedin_url = "https://www.linkedin.com/in/YOUR_LINKEDIN"
-linkedin_text = "linkedin.com/in/YOUR_LINKEDIN"
-github_url = "https://github.com/YOUR_GITHUB"
-github_text = "github.com/YOUR_GITHUB"
+linkedin_url = "https://www.linkedin.com/in/yashaswini-k-9b53b0275"
+linkedin_text = "linkedin.com/in/yashaswini-k-9b53b0275"
+github_url = "https://github.com/yashaswinikrishnanaik-stack"
+github_text = "github.com/yashaswinikrishnanaik-stack"
 
 copyright = "Yeshaswini Krishna"
 
@@ -56,7 +56,7 @@ url = "https://www.linkedin.com/in/yashaswini-k-9b53b0275/"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/YOUR_GITHUB"
+url = "https://github.com/yashaswinikrishnanaik-stack"
 
 sectionPagesMenu = 'main'
 
