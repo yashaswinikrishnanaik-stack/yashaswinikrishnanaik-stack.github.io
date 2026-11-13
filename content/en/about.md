@@ -6,44 +6,45 @@ intro: >-
    I find the world around us incredibly fascinating, and there's always something new that makes me stop, wonder, and ask questions. I love reading, exploring unfamiliar ideas, and trying to understand how things work and why they are the way they are. For me, learning isn't limited to a particular subject; there's something interesting to discover in just about everything. 
 
 study: >-
-  Based in **Montréal**, I continue to deepen **AI and machine learning** at **Collège LaSalle** (Python, PyTorch, predictive modeling), complementing my day-to-day work leading **LLM agent security, guardrails, and platform delivery** at Fireraven.
+  I'm a **BS-MS student in Physics at IISER Tirupati**, currently pursuing my
+  master's thesis as a visiting student at the **Institute of Science Tokyo,
+  Japan**. My research revolves around **planetary dynamics and planet
+  formation**, primarily using **N-body simulations**. I'm particularly
+  interested in understanding how planetary systems evolve and the fascinating
+  dynamics that shape them.
 
-passion_title: "What I focus on"
-passion_text: >-
-  As a **hands-on Head of Technology**, I bridge **CEO and product vision** with **AI systems engineering**. I set technology direction and still ship: designing and delivering capabilities that balance security, compliance, and user experience, helping organizations adopt **LLM agents** in a way that is **secure, auditable, and aligned with business goals**. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, that means owning FireGuard and RedRaven delivery with product, security, and customers (policies, runtime controls, and compliance evidence), built with **Python (FastAPI)**, **Next.js/TypeScript**, and **PostgreSQL**. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led **autonomous structural analysis** and **ML** for concrete estimation, translating engineering needs into shipped product.
+passion_tittle: "Beyond the equations"
 
-mix: >-
-  My path from **structural engineering** to **tech leadership in AI** means I connect **disciplined systems thinking** with **software delivery**: from physical structures and BIM to **policy-driven AI** and enterprise tooling. I focus on **practical outcomes**: clear priorities, measurable impact, and reliable systems.
-
-personal: >-
-  Outside work, I enjoy **tennis**, **cooking**, **drums**, **swimming**, and **photography**. I **volunteer at LaSalle College**, helping new students settle in and supporting the academic community.
+pession_text: >-
+  Outside work, I enjoy **tennis**, **cooking**, **Playing guitar**, **swimming**.Physics is one way I try to understand the universe, but my curiosity doesn't
+  stop there. I enjoy exploring ideas across different fields, reading about
+  things I know little about, asking questions, and connecting seemingly
+  unrelated concepts. I'm always eager to learn something new, experiment with
+  ideas, and see where curiosity takes me. 
 
 quickfacts:
-  - icon: "briefcase"
-    title: "Current Role"
-    value: "Head of Technology at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
-  - icon: "graduation-cap"
+  - icon: "heart"
     title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
-  - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
-  - icon: "language"
+    value: "BS-MS at <a href=\"https://www.iisertirupati.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\">IISER Tirupati</a>"
+  - icon: "heart"
+    title: "Current Research"
+    value: "Academic Research Stay at Institute of Science Tokyo"
+  - icon: "heart"
+    title: "Core Tools"
+    value: "|
+      - Python & C
+      - REBOUND (Mercurius integrator)
+      - GENGA & Machine Learning"
+  - icon: "heart"
     title: "Languages"
     value: |
-      - 🇬🇧 English (IELTS C1)
-      - 🇨🇱 Spanish (Native)
-      - 🇫🇷 French (TCF B2)
+      - EnglisH
+      - Kannada
+      - Hindi
   - icon: "heart"
-    title: "Interests"
+    title: "Research Interests"
     value: |
-      - ♟️ Chess
-      - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
-      - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
-      - 📚 Reading
+      -🔭 Theoretical Astrophysics
+      - 🌍 Exoplanet Habitability
+      - ☄️ Planetary Dynamics
 ---
