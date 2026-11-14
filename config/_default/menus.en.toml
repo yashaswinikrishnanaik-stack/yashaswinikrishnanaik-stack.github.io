@@ -25,9 +25,9 @@ weight = 60
 
 [[main]]
 name = "Research"
-url = "/engineering/"
+url = "/Research/"
 weight = 3
-pre = "engineering"
+pre = "Research"
 
 [[main]]
 name = "Art"
