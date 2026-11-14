@@ -31,7 +31,7 @@ pre = "Research"
 
 [[main]]
 name = "Art"
-url = "/contributions/"
+url = "/Art/"
 weight = 51
-pre = "contributions"
+pre = "Art"
 
